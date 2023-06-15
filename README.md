@@ -1,1 +1,1 @@
-# -i-ete-workshop
+# -i-ete-workshop.github.io
